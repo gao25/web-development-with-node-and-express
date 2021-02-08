@@ -1,5 +1,6 @@
 # web-development-with-node-and-express
 node与express开发
+
 搭建环境步骤：
 1、安装node（http://nodejs.org），运行如下命令验证是否安装成功
 node -v
